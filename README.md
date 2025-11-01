@@ -34,3 +34,40 @@ Created as a university nutrition project to demonstrate the relationship betwee
 
 ## 💚 Author
 Developed by **djihad rezgui** — Nutrition Student.
+
+## 🥗 Introduction
+_The Healthy Day Nutrition Tracker is a web-based project designed to help users monitor their daily food intake, track their nutritional habits, and maintain a balanced diet. This tool allows users to record meals, calculate calorie intake, and evaluate the quality of their nutrition based on recommended dietary guidelines. The main goal of this project is to promote healthy eating behaviors and raise awareness about the importance of balanced nutrition in preventing diseases.
+
+---
+
+## ⚙️ Methodology
+_Our methodology is based on four main steps:
+
+1. Data Collection:Users input their daily meals and beverages into the platform. Each food item is linked to a nutritional database containing calories, proteins, carbohydrates, and fats.
+
+2. Data Processing:
+The system calculates the total nutritional intake per day and compares it to recommended daily values (RDI).
+
+3. Analysis and Feedback:
+The app provides feedback on the user's diet—whether it's balanced, lacking in certain nutrients, or excessive in calories.
+
+4. Visualization:
+Results are displayed in simple charts and tables, allowing users to easily understand their progress and make healthier choices.
+
+### 💡 Examples
+
+Example 1: A user enters their breakfast (e.g., yogurt, banana, and oats). The app calculates the nutritional values and shows the calorie total for that meal.
+-Example 2: At the end of the day, the user receives a summary report showing if their protein or fiber intake was below the daily recommendation.
+
+---
+
+## 📊 Analyses
+-After several days of tracking, the app can generate weekly reports.
+These reports help users analyze patterns such as:
+-Skipping meals
+-High sugar or fat intake
+-Low vitamin or fiber consumptioThis analysis helps improve dietary behavior and supports users in maintaining a healthy lifestyle.
+
+## 💚 Author 
+Developed by ** baraa lamri ** _nutrition student.
+
